@@ -26,4 +26,4 @@ Clone project inspired by [Apps by Apple](https://www.apple.com/apps/). <br/> Th
 
 # Reference
 
-Design & Layout: https://www.apple.com/apps/)https://www.apple.com/apps/
+Design & Layout: https://www.apple.com/apps/
